@@ -1,1 +1,1 @@
-print("Let's start python learning")
+print("hello world$$$")
